@@ -1,6 +1,6 @@
 {
 	"pack": {
 		"pack_format": 18,
-		"description": "Player Health Display"
+		"description": "Display the health of players under their names."
 	}
 }
