@@ -1,0 +1,2 @@
+scoreboard objectives add playerhealth health
+scoreboard objectives setdisplay 2 playerhealth
